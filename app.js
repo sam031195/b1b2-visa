@@ -44,8 +44,10 @@ const renderOptions = () => {
     const imgUrl = getAvatarUrl(option);
     card.innerHTML = `
       <img class="option-card__image" src="${imgUrl}" alt="${option.label}" onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(option.label)}&size=128&background=4b5563&color=fff';" />
-      <h3>${option.label}</h3>
-      <p>View questions and answers</p>
+      <div class="option-card__content">
+        <h3>${option.label}</h3>
+        <p>View questions and answers</p>
+      </div>
     `;
     optionsGrid.appendChild(card);
   });

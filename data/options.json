@@ -1,27 +1,7 @@
 [
-  {
-    "id": "pawan",
-    "label": "Pawan",
-    "dataFile": "data/pawan.json"
-  },
-  {
-    "id": "jeewan",
-    "label": "Jeewan",
-    "dataFile": "data/jeewan.json"
-  },
-  {
-    "id": "basanti",
-    "label": "Basanti",
-    "dataFile": "data/basanti.json"
-  },
-  {
-    "id": "amar-bai",
-    "label": "Amar Bai",
-    "dataFile": "data/amar-bai.json"
-  },
-  {
-    "id": "lalit",
-    "label": "Lalit",
-    "dataFile": "data/lalit.json"
-  }
+  {"id":"lalit","label":"Lalit Meena","dataFile":"data/lalit.json"},
+  {"id":"jeewan","label":"Jeewan Lal Meena","dataFile":"data/jeewan.json"},
+  {"id":"amar-bai","label":"Amar Bai Meena","dataFile":"data/amar-bai.json"},
+  {"id":"pawan","label":"Pawan Kumar","dataFile":"data/pawan.json"},
+  {"id":"basanti","label":"Basanti Devi","dataFile":"data/basanti.json"}
 ]

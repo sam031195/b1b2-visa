@@ -107,6 +107,12 @@ a {
   flex-shrink: 0;
 }
 
+.option-card__content {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
 .option-card h3 {
   margin: 0;
   font-size: 16px;
@@ -115,7 +121,7 @@ a {
 }
 
 .option-card p {
-  margin: 2px 0 0;
+  margin: 0;
   font-size: 13px;
   color: var(--text-secondary);
 }
