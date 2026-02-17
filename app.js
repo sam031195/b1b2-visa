@@ -76,6 +76,7 @@ const groupByCategory = (items) => {
 const renderQaList = (items) => {
   qaList.innerHTML = "";
   const groups = groupByCategory(items);
+  let questionNum = 1;
 
   groups.forEach((groupItems, category) => {
     const section = document.createElement("section");
@@ -92,7 +93,8 @@ const renderQaList = (items) => {
 
       const question = document.createElement("div");
       question.className = "qa-item__question";
-      question.textContent = item.question;
+      question.textContent = `${questionNum}) ${item.question}`;
+      questionNum++;
       block.appendChild(question);
 
       const answer = document.createElement("div");
