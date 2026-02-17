@@ -1,8 +1,8 @@
 [
   {
     "question": "1) Why are you going to the United States? (Aap United States kyun ja rahe hain?)",
-    "english": "I am going to the United States for tourism and to visit my child, Surbhi Meena, in Seattle.",
-    "hinglish": "Main United States tourism ke liye aur apne bachche, Surbhi Meena, se milne Seattle ja raha hoon.",
+    "english": "I am going for tourism and to attend convocation of Surbhi Meena in Seattle.",
+    "hinglish": "Main tourism ke liye aur Surbhi Meena ki convocation attend karne Seattle ja raha hoon.",
     "category": "Basic Trip Details"
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "question": "8) What is their status in the US? (Unka US mein kya status hai?)",
-    "english": "My child, Surbhi Meena, is a non-immigrant in the US.",
-    "hinglish": "Mera bachcha, Surbhi Meena, US mein non-immigrant status par hai.",
+    "english": "My child, Surbhi Meena, is on F1 (student visa) Visa in the US.",
+    "hinglish": "Mera bachcha, Surbhi Meena, US mein F1 (student visa) Visa status par hai.",
     "category": "Who You Are Visiting"
   },
   {
