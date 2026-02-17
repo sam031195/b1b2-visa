@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pawan",
+    "label": "Pawan",
+    "dataFile": "data/pawan.json"
+  },
+  {
+    "id": "jeewan",
+    "label": "Jeewan",
+    "dataFile": "data/jeewan.json"
+  },
+  {
+    "id": "basanti",
+    "label": "Basanti",
+    "dataFile": "data/basanti.json"
+  },
+  {
+    "id": "amar-bai",
+    "label": "Amar Bai",
+    "dataFile": "data/amar-bai.json"
+  },
+  {
+    "id": "lalit",
+    "label": "Lalit",
+    "dataFile": "data/lalit.json"
+  }
+]

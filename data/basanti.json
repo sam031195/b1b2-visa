@@ -1,0 +1,152 @@
+[
+  {
+    "question": "1) Why are you going to the United States? (Aap United States kyun ja rahi hain?)",
+    "english": "I am going to the United States for tourism and to visit my relative, Surbhi Meena, in Seattle.",
+    "hinglish": "Main United States tourism ke liye aur apni rishtedar, Surbhi Meena, se milne Seattle ja rahi hoon.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "2) Is this for business, tourism, or both? (Kya yeh business, tourism, ya dono ke liye hai?)",
+    "english": "This trip is for both tourism and to visit family.",
+    "hinglish": "Yeh trip tourism aur family se milne, dono ke liye hai.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "3) When do you plan to travel? (Aap kab travel karne ka plan kar rahi hain?)",
+    "english": "I plan to travel on June 1, 2026.",
+    "hinglish": "Main 1 June 2026 ko travel karne ka plan kar rahi hoon.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "4) How long will you stay? (Aap kitne din rukengi?)",
+    "english": "I plan to stay for approximately three weeks, departing on June 20, 2026.",
+    "hinglish": "Main lagbhag teen hafte rukungi, aur 20 June 2026 ko wapas aa jaungi.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "5) Which cities will you visit? (Aap kaun se shehron mein jayengi?)",
+    "english": "I will primarily be visiting Seattle, Washington.",
+    "hinglish": "Main mainly Seattle, Washington jaungi.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "6) Where will you stay? (Aap kahan rukengi?)",
+    "english": "I will be staying with my relative, Surbhi Meena, at their residence in Seattle.",
+    "hinglish": "Main apni rishtedar, Surbhi Meena, ke saath unke Seattle wale ghar mein rukungi.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "7) Do you have friends or relatives in the US? (Kya aapke koi dost ya rishtedar US mein hain?)",
+    "english": "Yes, I have a relative, Surbhi Meena, who resides in the US.",
+    "hinglish": "Haan, meri ek rishtedar, Surbhi Meena, US mein rehti hai.",
+    "category": "Who You Are Visiting"
+  },
+  {
+    "question": "8) What is their status in the US? (Unka US mein kya status hai?)",
+    "english": "My relative, Surbhi Meena, is a non-immigrant in the US.",
+    "hinglish": "Meri rishtedar, Surbhi Meena, US mein non-immigrant status par hai.",
+    "category": "Who You Are Visiting"
+  },
+  {
+    "question": "9) How do you know them? (Aap unhe kaise jaante hain?)",
+    "english": "Surbhi Meena is my relative.",
+    "hinglish": "Surbhi Meena meri rishtedar hai.",
+    "category": "Who You Are Visiting"
+  },
+  {
+    "question": "10) Who will you stay with? (Aap kiske saath rukengi?)",
+    "english": "I will be staying with my relative, Surbhi Meena.",
+    "hinglish": "Main apni rishtedar, Surbhi Meena, ke saath rukungi.",
+    "category": "Who You Are Visiting"
+  },
+  {
+    "question": "11) Who will pay for your trip? (Aapke trip ka kharcha kaun uthayega?)",
+    "english": "I will be paying for my own trip.",
+    "hinglish": "Main apne trip ka kharcha khud uthayungi.",
+    "category": "Money and Expenses"
+  },
+  {
+    "question": "12) How much will the trip cost? (Trip ka kitna kharcha aayega?)",
+    "english": "(This information is not explicitly available in the DS-160. You should be prepared to provide an estimated cost based on your travel plans, including flights, accommodation, food, and activities.)",
+    "hinglish": "(Yeh information DS-160 mein nahi hai. Aapko apne travel plans ke hisaab se estimated cost batane ke liye ready rehna chahiye, jisme flights, accommodation, khana aur activities shamil hon.)",
+    "category": "Money and Expenses"
+  },
+  {
+    "question": "13) What is your monthly income? (Aapki monthly income kitni hai?)",
+    "english": "I am a farmer and receive a pension from the Government of Rajasthan. My income is sufficient to cover my expenses.",
+    "hinglish": "Main ek kisan hoon aur Rajasthan Sarkar se pension prapt karti hoon. Meri income mere kharchon ke liye paryapt hai.",
+    "category": "Money and Expenses"
+  },
+  {
+    "question": "14) Do you have savings for this trip? (Kya aapke paas is trip ke liye savings hain?)",
+    "english": "Yes, I have personal savings and my pension to cover the expenses for this trip.",
+    "hinglish": "Haan, mere paas is trip ke kharchon ke liye personal savings aur meri pension hai.",
+    "category": "Money and Expenses"
+  },
+  {
+    "question": "15) What do you do for work? (Aap kya kaam karti hain?)",
+    "english": "I am a self-employed farmer and also receive a government pension.",
+    "hinglish": "Main ek swa-rozgar kisan hoon aur sarkari pension bhi prapt karti hoon.",
+    "category": "Work and Studies in India"
+  },
+  {
+    "question": "16) Where do you work and what is your role? (Aap kahan kaam karti hain aur aapka role kya hai?)",
+    "english": "I work on my own farmland in Dubbi Bidarkha, Sawai Madhopur, where I cultivate fruits, vegetables, pulses, and beans. I also manage my household.",
+    "hinglish": "Main apne khet par Dubbi Bidarkha, Sawai Madhopur mein kaam karti hoon, jahan main phal, sabziyan, daalein aur anaj ugati hoon. Main apna ghar bhi sambhalti hoon.",
+    "category": "Work and Studies in India"
+  },
+  {
+    "question": "17) How long have you worked there? (Aap wahan kitne samay se kaam kar rahi hain?)",
+    "english": "I have been farming on my own land since June 2000.",
+    "hinglish": "Main June 2000 se apne khet par kheti kar rahi hoon.",
+    "category": "Work and Studies in India"
+  },
+  {
+    "question": "18) Do you have approved leave and when will you return? (Kya aapki chutti approved hai aur aap kab wapas aayengi?)",
+    "english": "As a self-employed farmer, I manage my own schedule. I will return to India by June 20, 2026, to oversee my farm and other responsibilities.",
+    "hinglish": "Ek swa-rozgar kisan hone ke naate, main apna schedule khud manage karti hoon. Main 20 June 2026 tak India wapas aa jaungi apne khet aur anya zimmedariyon ko dekhne ke liye.",
+    "category": "Work and Studies in India"
+  },
+  {
+    "question": "19) Which college and which course, when does your next semester start? (Aap kaun se college aur course mein hain, aur aapka agla semester kab shuru hoga?)",
+    "english": "N/A (I am not a student).",
+    "hinglish": "Laagu nahi (Main student nahi hoon).",
+    "category": "Work and Studies in India"
+  },
+  {
+    "question": "20) Why will you return to India after the trip? (Aap trip ke baad India wapas kyun aayengi?)",
+    "english": "I will return to India to continue managing my farm and to be with my family. My child, Pawan Kumar, and other family members reside in India, and I have significant responsibilities here.",
+    "hinglish": "Main India wapas aaungi apne khet ka prabandhan jaari rakhne aur apni family ke saath rehne ke liye. Mera bachcha, Pawan Kumar, aur anya family members India mein rehte hain, aur meri yahan mahatvapurna zimmedariyan hain.",
+    "category": "Ties to India and Return Plan"
+  },
+  {
+    "question": "21) Do you have family in India? (Kya aapki family India mein hai?)",
+    "english": "Yes, my child, Pawan Kumar, and other family members reside in India.",
+    "hinglish": "Haan, mera bachcha, Pawan Kumar, aur anya family members India mein rehte hain.",
+    "category": "Ties to India and Return Plan"
+  },
+  {
+    "question": "22) Do you have property or responsibilities in India? (Kya aapki India mein koi property ya zimmedariyan hain?)",
+    "english": "Yes, I own farmland in India and receive a government pension, which are strong ties to my home country.",
+    "hinglish": "Haan, mere paas India mein khet hai aur main sarkari pension prapt karti hoon, jo mere desh se strong ties hain.",
+    "category": "Ties to India and Return Plan"
+  },
+  {
+    "question": "23) Have you traveled outside India before? (Kya aapne pehle kabhi India se bahar travel kiya hai?)",
+    "english": "Yes, I have traveled to the United Arab Emirates before.",
+    "hinglish": "Haan, main pehle United Arab Emirates travel kar chuki hoon.",
+    "category": "Prior Travel and Visa History"
+  },
+  {
+    "question": "24) Have you been to the US before? (Kya aap pehle kabhi US gayi hain?)",
+    "english": "No, I have not been to the US before.",
+    "hinglish": "Nahi, main pehle kabhi US nahi gayi hoon.",
+    "category": "Prior Travel and Visa History"
+  },
+  {
+    "question": "25) Have you ever been refused a US visa or overstayed anywhere? (Kya aapko kabhi US visa refuse hua hai ya aap kahin overstay kiye hain?)",
+    "english": "No, I have never been refused a US visa or overstayed anywhere.",
+    "hinglish": "Nahi, mujhe kabhi US visa refuse nahi hua aur na hi main kahin overstay kiya hai.",
+    "category": "Prior Travel and Visa History"
+  }
+]

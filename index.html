@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Interview Q&amp;A</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1>Interview Q&amp;A</h1>
+        <p class="subtitle">Select a group to view questions and answers.</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section id="home-view" class="view">
+        <h2 class="visually-hidden">Options</h2>
+        <div id="options-grid" class="options-grid" aria-live="polite"></div>
+        <div id="options-error" class="state state-error" role="alert" hidden>
+          Unable to load options right now. Please check your configuration.
+        </div>
+      </section>
+
+      <section id="qa-view" class="view" hidden>
+        <button id="back-button" class="apple-button" type="button">
+          <span class="apple-chevron apple-chevron--left" aria-hidden="true"></span>
+          Back to home
+        </button>
+        <div class="qa-header">
+          <h2 id="qa-title">Questions</h2>
+        </div>
+
+        <div id="qa-loading" class="state state-loading" aria-live="polite" hidden>
+          Loading questions...
+        </div>
+        <div id="qa-error" class="state state-error" role="alert" hidden>
+          We could not find the data for this option. Please try another group.
+        </div>
+        <div id="qa-empty" class="state state-empty" aria-live="polite" hidden>
+          No questions available.
+        </div>
+
+        <div id="qa-list" class="qa-list" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
