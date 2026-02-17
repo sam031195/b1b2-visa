@@ -1,9 +1,16 @@
 [
   {
     "question": "Why are you going to the United States? (Aap United States kyun ja rahi hain?)",
-    "answer": "I am going for tourism and to attend convocation of Surbhi Meena in Seattle. Main tourism ke liye aur Surbhi Meena ki convocation attend karne Seattle ja rahi hoon.",
-    "english": "I am going for tourism and to attend convocation of Surbhi Meena in Seattle.",
-    "hinglish": "Main tourism ke liye aur Surbhi Meena ki convocation attend karne Seattle ja rahi hoon.",
+    "answer": "I am going for tourism and to attend convocation of Surbhi Meena in Seattle. She is doing masters from University of Washington in Seattle. Main tourism ke liye aur Surbhi Meena ki convocation attend karne Seattle ja rahi hoon. Woh University of Washington, Seattle mein masters kar rahi hai.",
+    "english": "I am going for tourism and to attend convocation of Surbhi Meena in Seattle. She is doing masters from University of Washington in Seattle.",
+    "hinglish": "Main tourism ke liye aur Surbhi Meena ki convocation attend karne Seattle ja rahi hoon. Woh University of Washington, Seattle mein masters kar rahi hai.",
+    "category": "Basic Trip Details"
+  },
+  {
+    "question": "When is she graduating? (Woh kab graduate ho rahi hai?)",
+    "answer": "In June 2026. June 2026 mein.",
+    "english": "In June 2026.",
+    "hinglish": "June 2026 mein.",
     "category": "Basic Trip Details"
   },
   {
